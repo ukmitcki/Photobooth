@@ -1,6 +1,6 @@
 # ✨ UKM IT Fun Photobooth
 
-![Banner Image](https://via.placeholder.com/1280x400/1a1a1a/FF0055?text=UKM+IT+Photobooth+Project)
+![Banner Image](/docs/banner-photobooth.png)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.0%2B-white?style=for-the-badge&logo=flask)
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)
