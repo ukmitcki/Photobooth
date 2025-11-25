@@ -4,7 +4,7 @@ import base64
 from PIL import Image
 from io import BytesIO
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='/static', static_folder='static')
 
 # Konfigurasi Path
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
